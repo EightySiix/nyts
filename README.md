@@ -28,6 +28,13 @@ Whether you're building your dream base, farming for fun, or grinding jobs for t
 
 ---
 
+## 📖 Get Started
+
+👉 **[See the Wiki](https://github.com/EightySiix/nyts/wiki)** to get started!  
+You’ll find guides on Jobs, Shops, Economy, and more.
+
+---
+
 **This isn’t your typical SMP.**  
 It’s **NotYourTypicalServer** — and that’s the point. 🧸💫
 
